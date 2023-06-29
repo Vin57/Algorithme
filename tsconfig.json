@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "preserveConstEnums": true,
+      "outDir": "build",
+    },
+    "include": ["src/**/*"],
+    "exclude": ["**/*.spec.ts"]
+  }
